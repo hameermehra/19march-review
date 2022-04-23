@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>document</title>
+    <!--  <script>
+        console.log("javasript")
+        console.log("javasript")
+        console.log("javasript")
+    </script>-->
+    <script src="basic19.js"></script>
+</head>
+<body>
+    <h1>hameer singh</h1>
+  <h2>i like you</h2>  
+</body>
+</html>
+
+
+
+console.log(hameer)
+alert("welcome to hameer ! you are here")
+
+
+
+3 
+fname="hameer"
+spec="preeti"
+age=25
+year=1
+console.log(age+year)
+console.log(`candidate ${fname} he is specilized in ${spec} he is ${age} young`)
+
+alert(`welcome to BI ${fname} ! you are here`)
